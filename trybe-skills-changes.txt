@@ -5,3 +5,6 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
+-Front End
+-Back End
+-Ciencia da Computaçao
