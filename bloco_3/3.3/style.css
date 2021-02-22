@@ -1,0 +1,31 @@
+
+
+.goomba {
+ width: 800px;
+ position: absolute;
+ top: 1300px;
+ left: 100px;
+ 
+}
+
+.bowser {
+    width: 800px;
+ position: absolute;
+ top: 2700px;
+ left: 100px;
+}
+
+.baloon {
+    width: 400px;
+    position: absolute;
+    top: 2400px;
+    left: 50px;  
+    z-index: 1;
+}
+
+.word {
+    position: absolute;
+    top: 2500px;
+    left: 100px;   
+    z-index: 2;
+}
