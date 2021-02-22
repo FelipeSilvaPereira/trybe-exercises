@@ -1,31 +1,19 @@
-
-
-.goomba {
- width: 800px;
- position: absolute;
- top: 1300px;
- left: 100px;
- 
+body {
+    font-size: 150px;
 }
 
-.bowser {
-    width: 800px;
- position: absolute;
- top: 2700px;
- left: 100px;
+h1 {
+    text-align: center;
 }
 
-.baloon {
-    width: 400px;
-    position: absolute;
-    top: 2400px;
-    left: 50px;  
-    z-index: 1;
+p {
+    text-align: center;
 }
 
-.word {
-    position: absolute;
-    top: 2500px;
-    left: 100px;   
-    z-index: 2;
+li:hover {
+    background-color: chartreuse;
+}
+
+li:active {
+    color: cornsilk;
 }
